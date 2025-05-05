@@ -1,0 +1,10 @@
+inputSSF/
+Verified/
+target/
+venv/
+
+
+/input.txt
+/input1.txt
+/output1.txt
+/output.txt
