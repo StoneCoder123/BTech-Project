@@ -2,7 +2,7 @@
 
 This Java tool converts CPG Treebank SSF files to CoNLL-U format.
 
-## Build
+## Usage
 
 ```bash
     mvn clean compile
